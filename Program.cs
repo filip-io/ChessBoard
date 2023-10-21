@@ -1,4 +1,7 @@
-﻿namespace ChessBoard
+﻿
+// Filip Nilsson NET23
+
+namespace ChessBoard
 {
     internal class Program
     {
